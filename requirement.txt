@@ -1,0 +1,9 @@
+# -------------------------------------------------------------
+# Requirements File
+# -------------------------------------------------------------
+# No external libraries required.
+# Python Standard Library is sufficient.
+#
+# Required Python Version:
+# Python 3.10+
+# -------------------------------------------------------------
